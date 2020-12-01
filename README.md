@@ -1,4 +1,4 @@
-# Petclinic Test Automation
+# Amazon Test Automation
 UI Automation Framework for Amazon book purchase
 
 ## Prerequisites:
